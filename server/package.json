@@ -1,5 +1,5 @@
 {
-  "name": "nv-webblog-server",
+  "name": "nv-webblog66",
   "version": "1.0.0",
   "description": "nodejs vuejs webblog server (back end)",
   "main": "src/app.js",
